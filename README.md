@@ -47,3 +47,5 @@ If a pattern matches all tokens in user input, the corresponding intent is selec
 Responding:
 
 A random response related to the detected intent is selected and printed.
+
+Output :- <img width="1022" height="652" alt="Image" src="https://github.com/user-attachments/assets/a598a4c9-6041-46a3-8be2-3b117aa70fbf" />
